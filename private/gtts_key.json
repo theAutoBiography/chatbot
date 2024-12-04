@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "speech-processing-420015",
+  "private_key_id": "05c9ef7b97a082d530712696d82358fb0b4bd079",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDTyKtFPiAS1qHG\nkzRtvABIb0YwzqRH5i58vN4pwfFgesWhw7gL4bTwBLJcbrbjo/OlQq6poOhhIbI1\nPNQIDOAWhTZxqvlFTcFoidBMrKTXg5/nf3uPaxYeoqHXfXS/nZq5uaZjslS55aCD\nlDphrhYq4tm1R1Qnl7/gYD/sh9m6ZCx64eTyOMKgbRMHdWgdt4NRE9xEGr/JynOj\nb6e6cu9u7LBmQZSo+uePXxOy3TNS/4YT82XF9x7CAVemp2Bdrb1pjoHvR76NsleQ\nMw0mMJ1Ig0avVM9eG0O5oFmZ8Qbywiv5CnMhvSHkEi5Taosyr6Et9QGGAZuXFaGc\nowc3SqXRAgMBAAECggEAB/sTkTFtI1ND7L1sCAfspCN6q/4tgf7HmQXDrXkp2m6Q\nogRDxuwuKwP89gS/ZEavuMuRf2zuijKAilxiH8eJw5oo2hG3q7KUFkITP8BwbyVT\np5/4jQgGYQh/PCVLJVQQGkLyZTwO0KPkRPEXXh+hpY4U5thARe8EWQqSKMdZyhnz\nZ+I866Qs6kPcXG3RN+D9bHeJXnrdmYjpHck3DklOK2qJJlVzlxA2FrzhvRhad+Bg\nr8EcmHNNCaw276GQAIPD19RDsup2Jz+H+0CYZVx/GArl1p6HJFHX0sxg6RTZ5XEd\nubVGuK51ROI99K7s12OnhSTwX5+ev28wLj5gUaQfDQKBgQDpwR2JoitTlVSjHBcD\nG2wN+j9F0f/ylwlMPTqAUCR6h+NdRklBkl6GJ6RjOsq7qxXQEEuVjzh2jDbTOEvk\n3UKkKglZS4dC4ynMsm2PUhClugzS5OjrfJ+YBD5BxW0vTaU7JrmUwivZt2HIcoog\nXKsUEBnNwTp5Y4rug38zoK3Q9wKBgQDn8EsY8yFzfVCftcsz30V75DBpLh2OuGKw\nU/bNj6eonztvtqBCCPux/LA9V54jvQpfuQr6PZjOUwfsWL6vs9tSpcAEIinB8Q2m\nUs9xzw6KNfl0FSe+IXEDglzWM6Dea+SImDub3S6a26UU02nY/dcODZqALNnSlilV\n+APx/ifVdwKBgC5dPoWZI+zdNr9vh+T24HTZSQmJQLIWYSK9FkhzHPks0N0kXs1h\nwdvsKv//nkyg/5+YS9WrZbCl2Q4GIY+Qj3JOYDJU98w9kIHodjCyP1kP0RFXlBd5\nTZJybQLQrPpv9TEJWk/2P4pchEmk5l7K4qgFFYkpJXcEVn8+l9Fesns7AoGAbOry\n2SyTsOBQVC/S1PEseBmYgkwdpUABWDyV0cJ8QTtFdhiU+W2uhM7dFHFo2e+UR49m\nEE2MzJdBSUQDiA82F4GuwkIoyeKhPlH1CMTrVwwxsMmeeDLMF5HIdu6XxNt13o9e\nrrsXf7FVvInrUvMhYoAQ5dAqGjJaBv0JHUL1AdECgYB/h7izkDXAqi3KCiX/wES5\n1B3YC4NC0SnF1v2Sz1/UGNbA5J6UBo4WzFCq4SFM3i6Fgh8JWpD1u4ht5tvTdvLq\nCuYqrMugoIbSDVjstDcVSCXlGwv74pcDe/cL6rkI10IR4c46M2/yNW7a/JZiygiK\nPTc8ZZSmHsOUWttVpXAz9g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "speech-processing-ram-mathu@speech-processing-420015.iam.gserviceaccount.com",
+  "client_id": "111935760852209550128",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/speech-processing-ram-mathu%40speech-processing-420015.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

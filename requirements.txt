@@ -1,0 +1,8 @@
+flask
+openai
+python-dotenv
+flask-wtf
+flask-bootstrap
+requests
+google-cloud-texttospeech
+google-cloud-speech

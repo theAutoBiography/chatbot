@@ -1,0 +1,7 @@
+OPENAI_API_KEY="sk-proj-Bm0MEXUYvJRiWhIIMYoyT3BlbkFJkONRzZj2G0rjiXxXMayg"
+GOOGLE_APPLICATION_CREDENTIALS="private/gtts_key.json"
+DEBUG=True
+ENV=development
+FLASK_APP=app
+FLASK_DEBUG=1
+SECRET_KEY="ThisIsASecret"
